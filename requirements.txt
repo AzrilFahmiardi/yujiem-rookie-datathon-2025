@@ -1,0 +1,9 @@
+transformers
+scikit-learn
+datasets
+pandas
+tqdm
+sentence-transformers
+pulp
+matplotlib
+seaborn
